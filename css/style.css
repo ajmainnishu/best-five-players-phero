@@ -1,0 +1,10 @@
+/* header section start */
+/* header part part */
+.header-mbappe-img {
+    background-image: url('../images/header-pictures/header-mbappe-background.png');
+    background-blend-mode: multiply;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 90% 100%;
+}
+/* header section end */
