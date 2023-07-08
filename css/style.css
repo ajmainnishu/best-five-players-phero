@@ -7,6 +7,14 @@ button:disabled {
     color: white !important;
     border-color: #A2A9AF !important;
 }
+.color-btn {
+    background-color: #015196;
+    color: white;
+}
+.color-btn:hover {
+    background-color: #015196;
+    color: white;
+}
 
 
 
@@ -29,5 +37,10 @@ button:disabled {
 /* player name part */
 .player-display-name {
     min-height: 366.344px;
+}
+
+/* player income part */
+.color-total-amount {
+    color: #FF5E19;
 }
 /* main section end */

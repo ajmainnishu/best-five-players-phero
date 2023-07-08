@@ -1,3 +1,4 @@
+// players button part
 const buttonPlayers = document.getElementsByClassName('btn-players');
 for (const player of buttonPlayers) {
     player.addEventListener('click', function () {
