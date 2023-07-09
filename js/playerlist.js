@@ -12,7 +12,7 @@ for (const player of buttonPlayers) {
         playerList.appendChild(li);
         const listArray = playerList.childNodes;
         if (listArray.length >= 7) {
-            alert('Maximum 5 times allowed');
+            alert('Maximum 5 players selected');
             playerList.removeChild(li);
             return;
         }
